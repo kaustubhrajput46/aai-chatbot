@@ -1,0 +1,8 @@
+{
+  "name": "aai-chatbot",
+  "version": "1.0.0",
+  "description": "Terminal-based Q&A chatbot using pattern matching in Python.",
+  "main": "chatbot.py",
+  "author": "Kaustubh Rajput",
+  "license": "MIT"
+}
